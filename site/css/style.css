@@ -1,0 +1,27 @@
+header{
+    background-color: #F24C27;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    line-height: 50px;
+    
+    
+}
+
+a{
+    text-decoration: none;
+    margin-right: 20px;
+  
+
+}
+
+#caixa-logo{
+    width: 400px;
+}
+#logo{
+    padding-top: 5px;
+    height: 40px;
+    display:inline-block;
+    border-radius: 100%;
+}
